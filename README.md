@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on an app (Ionic Angular) in the Jewish Religion space
 - 🌱 I’m currently learning Azure and DevOps stuff
 - 👯 I’m looking to collaborate on interesting ideas that can benefit the world
