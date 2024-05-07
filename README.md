@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on an app (IonicAngular) for in the Jewish Religion realm
+- 🔭 I’m currently working on an app (Ionic Angular) in the Jewish Religion realm
 - 🌱 I’m currently learning Azure and DevOps stuff
 - 👯 I’m looking to collaborate on interesting ideas that can benefit the world
 - 🤔 I’m looking for help with the above
